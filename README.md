@@ -1,18 +1,140 @@
+<div align="center">
 
+<!-- Animated Name Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Subham+Ray.;Gen+AI+Full+Stack+Developer.;I+build+intelligent+products.)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumadeep9830) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumadeep-s) 
+<br/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=somsu123&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=somsu123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somsu123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-activity-graph.vercel.app/graph?username=somsu123&theme=react-dark&hide_border=true)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Full%20Stack-111111?style=flat-square&labelColor=f5f5f5&color=111111" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India-111111?style=flat-square&labelColor=f5f5f5&color=111111" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Subham777-max&style=flat-square&color=111111&label=Profile+Views" />
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=somsu123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## About
+
+I am a **Generative AI Full Stack Developer** with hands-on experience building end-to-end intelligent web applications. My work spans the full development lifecycle — from architecting scalable REST APIs and real-time backends to delivering polished, responsive user interfaces.
+
+I specialise in integrating **Large Language Models** and **LangChain** into production-grade applications, enabling products that go beyond conventional software by reasoning, generating, and adapting in real time.
+
+Previously, I served as a **Frontend Developer Intern at AskMeIdentity** (3 months), where I contributed to building and refining user-facing features in a professional product environment — sharpening my ability to write clean, maintainable, and scalable frontend code under real-world constraints.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Core Expertise**
+- LLM Integration & Prompt Engineering
+- Full Stack Web Application Development
+- Real-Time Systems with Socket.IO
+- RESTful API Design with Express.js
+
+</td>
+<td valign="top" width="50%">
+
+**Currently Exploring**
+- Agentic AI Architectures
+- RAG (Retrieval-Augmented Generation)
+- LangChain Toolchains & Memory
+- AI-Native Product Design
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## Tech Stack
+
+#### ◈ &nbsp; AI & Intelligence
+
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20Integration-111111?style=flat-square&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-111111?style=flat-square&logo=googlegemini&logoColor=white)
+
+#### ◈ &nbsp; Frontend
+
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-111111?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![SCSS](https://img.shields.io/badge/SCSS-111111?style=flat-square&logo=sass&logoColor=CC6699)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
+
+#### ◈ &nbsp; Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=4EA94B)
+![Socket.io](https://img.shields.io/badge/Socket.IO-111111?style=flat-square&logo=socket.io&logoColor=white)
+
+<br/>
+
+---
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Subham777-max&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham777-max&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&langs_count=6" />
+
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Subham777-max&theme=transparent&hide_border=true&stroke=555555&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham777-max&bg_color=00000000&color=ffffff&line=555555&point=ffffff&area=true&area_color=333333&hide_border=true&radius=6" width="95%"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Subham777--max-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Subham777-max)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subham%20Ray-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-ray-174bb9328?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:subhamray865@email.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <sub>Crafted with precision by <strong>Subham Ray</strong> &nbsp;·&nbsp; Gen AI × Full Stack</sub>
+</div>
