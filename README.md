@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Name Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Subham+Ray.;Gen+AI+Full+Stack+Developer.;I+build+intelligent+products.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Somsubhro+Karmakar.;Gen+AI+Full+Stack+Developer.;I+build+intelligent+products.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,7 +11,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Location-India-111111?style=flat-square&labelColor=f5f5f5&color=111111" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Subham777-max&style=flat-square&color=111111&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=somsu123&style=flat-square&color=111111&label=Profile+Views" />
 </p>
 
 </div>
@@ -32,6 +33,7 @@ Previously, I served as a **Frontend Developer Intern at AskMeIdentity** (3 mont
 <td valign="top" width="50%">
 
 **Core Expertise**
+
 - LLM Integration & Prompt Engineering
 - Full Stack Web Application Development
 - Real-Time Systems with Socket.IO
@@ -41,6 +43,7 @@ Previously, I served as a **Frontend Developer Intern at AskMeIdentity** (3 mont
 <td valign="top" width="50%">
 
 **Currently Exploring**
+
 - Agentic AI Architectures
 - RAG (Retrieval-Augmented Generation)
 - LangChain Toolchains & Memory
@@ -90,15 +93,15 @@ Previously, I served as a **Frontend Developer Intern at AskMeIdentity** (3 mont
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Subham777-max&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=somsu123&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham777-max&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somsu123&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&langs_count=6" />
 
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Subham777-max&theme=transparent&hide_border=true&stroke=555555&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=somsu123&theme=transparent&hide_border=true&stroke=555555&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 <br/>
@@ -110,7 +113,7 @@ Previously, I served as a **Frontend Developer Intern at AskMeIdentity** (3 mont
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham777-max&bg_color=00000000&color=ffffff&line=555555&point=ffffff&area=true&area_color=333333&hide_border=true&radius=6" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somsu123&bg_color=00000000&color=ffffff&line=555555&point=ffffff&area=true&area_color=333333&hide_border=true&radius=6" width="95%"/>
 </div>
 
 <br/>
@@ -123,11 +126,11 @@ Previously, I served as a **Frontend Developer Intern at AskMeIdentity** (3 mont
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Subham777--max-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Subham777-max)
+[![GitHub](https://img.shields.io/badge/GitHub-somsu123-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/somsu123)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subham%20Ray-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-ray-174bb9328?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Somsubhro%20Karmakar-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/somsubhro-karmakar)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:subhamray865@email.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -136,5 +139,5 @@ Previously, I served as a **Frontend Developer Intern at AskMeIdentity** (3 mont
 ---
 
 <div align="center">
-  <sub>Crafted with precision by <strong>Subham Ray</strong> &nbsp;·&nbsp; Gen AI × Full Stack</sub>
+  <sub>Crafted with precision by <strong>Somsubhro Karmakar</strong> &nbsp;·&nbsp; Gen AI × Full Stack</sub>
 </div>
